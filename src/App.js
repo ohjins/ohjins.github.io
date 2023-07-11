@@ -4,7 +4,6 @@ import "./Reset.css"
 import "./Style.css"
 import{
   BrowserRouter,
-  Switch,
   Route,
   Routes,
   Link
