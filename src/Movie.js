@@ -37,7 +37,7 @@ function Movie() {
                 >#{g}</li>
               })}
             </ul>
-            <Link className="movie-details" to={`movie/${v.id}`}>상세보기</Link>
+            <Link className="movie-details" to={`movie/${v.id}`}>상세보기22</Link>
           </div>)}
         </div>
       }
